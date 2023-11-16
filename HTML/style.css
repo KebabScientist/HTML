@@ -1,0 +1,21 @@
+.textC {
+    text-align: center;
+}
+.container {
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    outline: solid 1px black;
+}
+
+.NavBtn {
+    color: lightseagreen;
+    text-decoration: green;
+}
+.NavBtn:hover {
+    transition: 2s smooth;
+    outline: solid 2px grey;
+}
+.navFlex {
+    display: flex;
+    justify-content: center;
+}
